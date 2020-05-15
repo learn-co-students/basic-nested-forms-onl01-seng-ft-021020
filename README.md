@@ -14,7 +14,7 @@
     association data.
 6.  Use `fields_for` to generate the association fields.
 
-## Data model
+## Data model 
 
 Let's say we're writing an address book.
 
